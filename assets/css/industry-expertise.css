@@ -1,0 +1,24 @@
+.expertise .card i{
+    display: flex;
+    justify-content: end;
+}
+.expertise .card img{
+    width: 100px;
+}
+.expertise .card{
+    border: none;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+/* Media Query */
+@media only screen and (max-width: 1200px) {}
+
+@media only screen and (max-width: 992px) {}
+
+@media only screen and (max-width: 768px) {}
+
+@media only screen and (max-width: 576px) {
+  footer{
+    padding: 30px 20px;
+  }
+
+}
